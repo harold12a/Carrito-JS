@@ -1,0 +1,17 @@
+.contenedor img {
+  border: solid 3px blue;
+}
+
+.contenedor h4 {
+  text-decoration: underline;
+}
+
+.contenedor h4:hover {
+  -webkit-text-decoration: lightcoral;
+          text-decoration: lightcoral;
+}
+
+.contenedor h3 {
+  background-color: black;
+}
+/*# sourceMappingURL=styless.css.map */

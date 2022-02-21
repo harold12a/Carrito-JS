@@ -1,0 +1,15 @@
+@import "variables";
+.contenedor {
+    img {
+        border: solid 3px $coloruno;
+    }
+    h4 {
+        text-decoration: underline;
+        &:hover {
+            text-decoration: lightcoral;
+        }
+    }
+    h3 {
+        background-color: black;
+    }
+}
