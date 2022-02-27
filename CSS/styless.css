@@ -1,5 +1,5 @@
 .contenedor img {
-  border: solid 3px blue;
+  border: solid 3px green;
 }
 
 .contenedor h4 {
@@ -13,5 +13,39 @@
 
 .contenedor h3 {
   background-color: black;
+}
+
+/*condicional*/
+div {
+  background-color: aqua;
+}
+
+/*bucle for*/
+.color1 {
+  border: red;
+}
+
+.color2 {
+  border: blue;
+}
+
+.color3 {
+  border: orange;
+}
+
+.color4 {
+  border: green;
+}
+
+.color5 {
+  border: purple;
+}
+
+.color6 {
+  border: pink;
+}
+
+.color7 {
+  border: yellow;
 }
 /*# sourceMappingURL=styless.css.map */
