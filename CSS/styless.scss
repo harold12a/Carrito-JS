@@ -1,47 +1,38 @@
-@import "variables";
-.contenedor {
-    img {
-        border: solid 3px $colordos;
-    }
-    h4 {
-        text-decoration: underline;
-        &:hover {
-            text-decoration: lightcoral;
+    @import "variables";
+    .contenedor {
+        img {
+            border: solid 3px $coloruno;
+        }
+        h4 {
+            text-decoration: underline;
+            &:hover {
+                text-decoration: lightcoral;
+            }
+        }
+        h3 {
+            background-color: black;
         }
     }
-    h3 {
-        background-color: black;
-    }
-}
-
-
-/*condicional*/
-
-@if $crearArcoiris=="si" {
-    div {
-        background-color: aqua;
-    }
-}
-
-@if $crearArcoiris=="si" {
-    /*bucle for*/
-    @for $i from 1 through 7 {
-        .color#{$i} {
-            border: map-get ($mapacolres, $i, );
-            @include bordeColor ($color);
+    
+    @if $crearArcoiris=="si" {
+        /*bucle for*/
+        @for $i from 1 through 7 {
+            .color#{$i} {
+                border: map-get ($mapacolres, $i, );
+                @include bordeColor ($color);
+            }
         }
     }
-}
-
-@else {
-    div {
-        @extend .contenedor,
-        img;
+    
+    @else {
+        div {
+            @extend .contenedor,
+            img;
+        }
     }
-}
-
-@mixin bordeColor ($color) {
-    border-width: 8px;
-    border-style: dotted;
-    border-color: $color;
-}
+    
+    @mixin bordeColor ($color, ) {
+        border-width: 8px;
+        border-style: dotted;
+        border-color: $color;
+    }

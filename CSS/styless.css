@@ -1,51 +1,25 @@
-.contenedor img {
-  border: solid 3px green;
+.contenedor img,
+div img,
+.contenedor div,
+div div {
+    border: solid 3px blue;
 }
 
-.contenedor h4 {
-  text-decoration: underline;
+.contenedor h4,
+div h4 {
+    text-decoration: underline;
 }
 
-.contenedor h4:hover {
-  -webkit-text-decoration: lightcoral;
-          text-decoration: lightcoral;
+.contenedor h4:hover,
+div h4:hover {
+    -webkit-text-decoration: lightcoral;
+    text-decoration: lightcoral;
 }
 
-.contenedor h3 {
-  background-color: black;
+.contenedor h3,
+div h3 {
+    background-color: black;
 }
 
-/*condicional*/
-div {
-  background-color: aqua;
-}
 
-/*bucle for*/
-.color1 {
-  border: red;
-}
-
-.color2 {
-  border: blue;
-}
-
-.color3 {
-  border: orange;
-}
-
-.color4 {
-  border: green;
-}
-
-.color5 {
-  border: purple;
-}
-
-.color6 {
-  border: pink;
-}
-
-.color7 {
-  border: yellow;
-}
 /*# sourceMappingURL=styless.css.map */
