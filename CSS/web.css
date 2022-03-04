@@ -138,8 +138,6 @@ footer .contenedor {
 }
 
 #blog img {
-    /*width: 100%;
-    height: 460px;*/
     justify-content: center;
 }
 
@@ -173,9 +171,4 @@ img.img-fluid {
         grid-template-rows: auto;
         text-align: center;
     }
-}
-
-
-/*@media screen and ( min-width 1024px) {
-    
 }
