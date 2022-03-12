@@ -131,6 +131,7 @@ footer .contenedor {
     grid-template-columns: auto auto auto;
     grid-template-rows: auto auto auto;
     text-align: center;
+    justify-content: center;
 }
 
 #blog.article {
@@ -141,7 +142,7 @@ footer .contenedor {
     justify-content: center;
 }
 
-
+c
 /*accesorios padding*/
 
 img.img-fluid {
@@ -170,5 +171,64 @@ img.img-fluid {
         grid-template-columns: auto;
         grid-template-rows: auto;
         text-align: center;
+    }
+}
+
+
+/*menu para dejar fijo en los html*/
+
+#menu-bar {
+    display: none;
+}
+
+header label {
+    float: right;
+    font-size: 28px;
+    margin: 6px 0;
+    cursor: pointer;
+}
+
+.menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(51, 51, 51, 0.9);
+    transition: all 0.5s;
+    transform: translateX(-100%);
+}
+
+.menu a {
+    display: block;
+    color: white;
+    height: 50px;
+    text-decoration: none;
+    padding: 15px;
+    border-bottom: 1px solid rgba(225, 225, 255, 0.5);
+}
+
+.menu a:hover {
+    background: rgba(225, 225, 255, 0.3);
+}
+
+#menu-bar:checked~.menu {
+    transform: translateX(0%);
+}
+
+@media screen and (min-width:1024px) {
+    .menu {
+        position: static;
+        width: auto;
+        height: auto;
+        transform: translateX(0%);
+        float: right;
+        display: flex;
+    }
+    .menu a {
+        border: none;
+    }
+    header label {
+        display: none;
     }
 }
