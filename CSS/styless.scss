@@ -13,34 +13,3 @@
                  background-color: black;
              }
          }
-         
-         @mixin bordeColor($color, ) {
-             border-width: 8px;
-             border-style: dotted;
-             border-color: $color;
-         }
-         
-         @if $crearArcoiris=="si" {
-             /*bucle for*/
-             @for $i from 1 through 7 {
-                 .color#{$i} {
-                     border: map-get($mapacolres, $i, );
-                 }
-             }
-         }
-         
-         @else if $crearArcoiris=="no" {
-             @each $numero,
-             $color in $mapacolres {
-                 .color#{$numero} {
-                     @include bordeColor($color);
-                 }
-             }
-         }
-         
-         @else {
-             div {
-                 @extend .contenedor,
-                 img;
-             }
-         }
