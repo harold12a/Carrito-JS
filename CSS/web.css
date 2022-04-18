@@ -172,6 +172,15 @@ img.img-fluid {
         grid-template-rows: auto;
         text-align: center;
     }
+    .listado-productos {
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
+        display: grid;
+        grid-template-columns: auto;
+        justify-content: space-around;
+        gap: 50px;
+    }
 }
 
 

@@ -1,17 +1,62 @@
 .contenedor img {
-  border: solid 3px blue;
+    border: solid 1px white;
 }
 
 .contenedor h4 {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 .contenedor h4:hover {
-  -webkit-text-decoration: lightcoral;
-          text-decoration: lightcoral;
+    -webkit-text-decoration: lightcoral;
+    text-decoration: lightcoral;
 }
 
 .contenedor h3 {
-  background-color: black;
+    background-color: black;
 }
-/*# sourceMappingURL=styless.css.map */
+
+.contenedor-productos {
+    margin-top: 1rem;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: (4, 1fr);
+}
+
+.card {
+    margin-bottom: 2rem;
+    text-align: center;
+    border: 5px solid red;
+    border-radius: 10px;
+    color: red;
+    overflow: hidden;
+}
+
+.imagen-producto {
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin: 1rem 0;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: aliceblue;
+}
+
+.listado-productos {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+    gap: 50px;
+}

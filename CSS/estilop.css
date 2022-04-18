@@ -216,10 +216,9 @@ footer .contenedor {
     text-decoration: none;
 }
 
-
-/*"carousel-inner"
-
-.carousel-inner {
-    width: 100%;
-    height: 400px;
+.contenedor-productos {
+    margin-top: 1rem;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: (4, 1fr);
 }
