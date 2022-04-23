@@ -1,0 +1,75 @@
+[{
+        "precio": 60000,
+        "id": 1,
+        "title": "Boss",
+        "img": "../imagenes/lociones/lociones1.jfif"
+    },
+    {
+        "precio": 30000,
+        "id": 2,
+        "title": "happy men",
+        "img": "../imagenes/lociones/lociones2.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 3,
+        "title": "Bleu",
+        "img": "../imagenes/lociones/lociones3.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 4,
+        "title": "Rinox",
+        "img": "../imagenes/lociones/lociones4.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 5,
+        "title": "aqva",
+        "img": "../imagenes/lociones/lociones5.jfif"
+    },
+    {
+        "precio": 30000,
+        "id": 6,
+        "title": "Paris",
+        "img": "../imagenes/lociones/lociones6.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 7,
+        "title": "212 vip",
+        "img": "../imagenes/lociones/lociones7.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 8,
+        "title": "212 vip men",
+        "img": "../imagenes/lociones/lociones8.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 9,
+        "title": "Perriy ellis",
+        "img": "../imagenes/lociones/lociones9.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 10,
+        "title": "212 vip men",
+        "img": "../imagenes/lociones/lociones10.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 11,
+        "title": "versage",
+        "img": "../imagenes/lociones/lociones11.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 12,
+        "title": "legend",
+        "img": "../imagenes/lociones/lociones12.jfif"
+    }
+
+
+]
