@@ -69,7 +69,290 @@
         "id": 12,
         "title": "legend",
         "img": "../imagenes/lociones/lociones12.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 13,
+        "title": "Boss",
+        "img": "../imagenes/lociones/lociones13.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 14,
+        "title": "Polo",
+        "img": "../imagenes/lociones/lociones14.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 15,
+        "title": "Tommy",
+        "img": "../imagenes/lociones/lociones15.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 16,
+        "title": "Gio",
+        "img": "../imagenes/lociones/lociones16.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 17,
+        "title": "Millon",
+        "img": "../imagenes/lociones/lociones17.jfif"
+    },
+    {
+        "precio": 300000,
+        "id": 18,
+        "title": "Reep",
+        "img": "../imagenes/lociones/lociones18.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 19,
+        "title": "Granada",
+        "img": "../imagenes/lociones/lociones19.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 20,
+        "title": "Bad",
+        "img": "../imagenes/lociones/lociones20.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 21,
+        "title": "Millon women",
+        "img": "../imagenes/lociones/lociones21.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 22,
+        "title": "Polo red",
+        "img": "../imagenes/lociones/lociones22.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 23,
+        "title": "Dissey",
+        "img": "../imagenes/lociones/lociones23.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 24,
+        "title": "Doccle",
+        "img": "../imagenes/lociones/lociones24.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 25,
+        "title": "Lacoste",
+        "img": "../imagenes/lociones/lociones25.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 26,
+        "title": "Black",
+        "img": "../imagenes/lociones/lociones26.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 27,
+        "title": "Dior",
+        "img": "../imagenes/lociones/lociones27.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 28,
+        "title": "xs",
+        "img": "../imagenes/lociones/lociones28.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 29,
+        "title": "Diesel",
+        "img": "../imagenes/lociones/lociones29.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 30,
+        "title": "Victus",
+        "img": "../imagenes/lociones/lociones30.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 31,
+        "title": "LaCoste red",
+        "img": "../imagenes/lociones/lociones31.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 32,
+        "title": "Dulce blue",
+        "img": "../imagenes/lociones/lociones32.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 33,
+        "title": "Kate",
+        "img": "../imagenes/lociones/lociones33.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 34,
+        "title": "lacoste pink",
+        "img": "../imagenes/lociones/lociones34.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 35,
+        "title": "Fantasy",
+        "img": "../imagenes/lociones/lociones35.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 36,
+        "title": "Paris",
+        "img": "../imagenes/lociones/lociones36.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 37,
+        "title": "Lacoste pink",
+        "img": "../imagenes/lociones/lociones37.jfif"
+    },
+    {
+        "precio": 300000,
+        "id": 38,
+        "title": "Coco",
+        "img": "../imagenes/lociones/lociones38.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 39,
+        "title": "Bvlgaaari",
+        "img": "../imagenes/lociones/lociones39.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 40,
+        "title": "Escada",
+        "img": "../imagenes/lociones/lociones40.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 41,
+        "title": "Bvlgaari women",
+        "img": "../imagenes/lociones/lociones41.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 42,
+        "title": "fantasy night",
+        "img": "../imagenes/lociones/lociones42.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 43,
+        "title": "Can Can",
+        "img": "../imagenes/lociones/lociones43.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 44,
+        "title": "La vie",
+        "img": "../imagenes/lociones/lociones44.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 45,
+        "title": "Paris tildon",
+        "img": "../imagenes/lociones/lociones45.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 46,
+        "title": "Ralph",
+        "img": "../imagenes/lociones/lociones46.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 47,
+        "title": "Rose",
+        "img": "../imagenes/lociones/lociones47.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 48,
+        "title": "Olympo",
+        "img": "../imagenes/lociones/lociones48.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 49,
+        "title": "Omnia",
+        "img": "../imagenes/lociones/lociones49.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 50,
+        "title": "Girl",
+        "img": "../imagenes/lociones/lociones50.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 51,
+        "title": "Women",
+        "img": "../imagenes/lociones/lociones51.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 52,
+        "title": "Women yellow",
+        "img": "../imagenes/lociones/lociones52.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 53,
+        "title": "Happy",
+        "img": "../imagenes/lociones/lociones53.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 54,
+        "title": "Doccle love",
+        "img": "../imagenes/lociones/lociones54.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 55,
+        "title": "Nude",
+        "img": "../imagenes/lociones/lociones55.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 56,
+        "title": "Omnia",
+        "img": "../imagenes/lociones/lociones56.jfif"
+    },
+    {
+        "precio": 50000,
+        "id": 57,
+        "title": "rose",
+        "img": "../imagenes/lociones/lociones57.jfif"
+    },
+    {
+        "precio": 100000,
+        "id": 58,
+        "title": "Bvlgari yellow",
+        "img": "../imagenes/lociones/lociones58.jfif"
+    },
+    {
+        "precio": 150000,
+        "id": 59,
+        "title": "Bvlgari blue",
+        "img": "../imagenes/lociones/lociones59.jfif"
     }
+
 
 
 ]
