@@ -71,7 +71,7 @@ const setCarrito = objeto => {
         producto.cantidad = carrito[producto.id].cantidad + 1
     }
     carrito[producto.id] = {...producto }
-    swal("CONTINUA COMPRANDO !", "HAS AGREGADO UN ARTICULO A TU CARRITO!", "success");
+    swal("HAS AGREGADO UN ARTICULO A TU CARRITO!", "success");
     pintarCarrito()
 
 }
@@ -122,7 +122,7 @@ const pintarFooter = () => {
     btnVaciar.addEventListener('click', () => {
 
         carrito = {}
-        swal("HAS ELIMINADO TODOS LOS ARTICULOS");
+        swal("HAS ELIMINADO LA COMPRA");
         pintarCarrito()
     })
 
@@ -139,7 +139,7 @@ const btnAccion = e => {
         producto.cantidad++
             carrito[e.target.dataset.id] = {...producto }
         pintarCarrito()
-        swal("CONTINUA COMPRANDO !", "HAS AGREGADO UN ARTICULO A TU CARRITO!", "success");
+        swal("HAS AGREGADO UN ARTICULO A TU CARRITO!", "success");
     }
     if (e.target.classList.contains('btn-danger')) {
         const producto = carrito[e.target.dataset.id]
